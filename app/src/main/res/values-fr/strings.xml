@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="click">CLIQUEZ SUR</string>
+    <string name="share">PARTAGER</string>
+    <string name="recycle_view">VUE DE RECYCLAGE</string>
+</resources>
